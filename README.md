@@ -1,6 +1,6 @@
 # Lokka Rbconfig
 
-This is a plug-in of Lokka that displays the environment of Ruby.
+This is a plugin of Lokka that displays the environment of Ruby.
 
 ## Installation
 
